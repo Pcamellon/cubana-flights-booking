@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Internet.png</file>
+        <file>Cubana_Airlines_logo.svg.png</file>
+        <file>user-home.ico</file>
+        <file>Search-dusk.png</file>
+        <file>2081-44578.png</file>
+        <file>Internet Shortcut (3).png</file>
+        <file>LG chocolate.png</file>
+        <file>matrix2 crasybrowser.png</file>
+        <file>Msn.ico</file>
+        <file>New Mail.png</file>
+        <file>Photoshop CS2.png</file>
+        <file>4837-LloydBanks-Areternnselec.ico</file>
+        <file>LAN.png</file>
+        <file>UK.ico</file>
+    </qresource>
+</RCC>
